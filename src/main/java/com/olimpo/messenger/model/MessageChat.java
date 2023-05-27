@@ -1,6 +1,6 @@
 package com.olimpo.messenger.model;
 
-public class Message {
+public class MessageChat {
     private String content;
     private String sender;
     private MessageType type;
